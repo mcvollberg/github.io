@@ -16,4 +16,4 @@ Brief paragraph describing mi research program.
 
 ## Publications
 
-See full list on my [Publications](/publications/) page.
+See full list on my [Google Scholar](https://scholar.google.de/citations?user=DFQsrOgAAAAJ&hl=en&oi=ao) page.
