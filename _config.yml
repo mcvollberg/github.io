@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Marius C. Vollberg"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I use experiments to study our species' mix of cooperation and competition."
+  bio    : "I use experiments to study the mix of cooperation and competition in human nature."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
