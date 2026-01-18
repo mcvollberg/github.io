@@ -6,12 +6,13 @@ layout: single
 
 ## Research Interests
 
-Brief paragraph describing your research program.
+Brief paragraph describing mi research program.
 
 ## Current Projects
 
-- Project 1: short description
-- Project 2: short description
+- Project 1: poopidipaapi
+- Project 2: paapidipoopi
+- Project 3: durchfall
 
 ## Publications
 
