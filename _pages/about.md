@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-This is where I introduce myself and link to my CV.
+This is where I introduce myself and link to my [CV](/assets/files/cv.pdf).
