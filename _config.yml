@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I use experiments to study cooperation and competition in humans."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mcvollberg.github.io/github.io/"
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/mariusvollberg.bsky.social"
