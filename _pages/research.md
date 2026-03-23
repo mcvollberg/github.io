@@ -37,21 +37,25 @@ neural implementation.
 
 **Vollberg, M. C.**, & Gross, J. Selfish and prosocial individuals both distort
 their actions' impact, but selfish distortions can be more contagious.
-*Under review.*
+*Under revision.*
 
 **Vollberg, M. C.**, O'Connor, B. B., Vuilleumier, P., Sander, D., & Cikara, M.
-Place-related neural activity sets the stage for empathy. *Cognition.* In press.
+Place-related neural activity sets the stage for empathy. *Cognition, 266,* 106327. 
 
-**Vollberg, M. C.**, & Cikara, M. (2024). Affective prediction errors in
-persistence and escalation of aggression. *Journal of Experimental Psychology:
-General, 153*(6), 1551–1567.
+**Vollberg, M. C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). Emotion and prediction errors: Which ingredients matter?. *Trends in Cognitive Sciences, 29*(12), 1075-1076.
+
+**Vollberg, M. C.**, Sander, D., & Hare, T.A. (2025). Trial-by-trial learning signatures
+in self-reported affect that require introspection and are orthogonal to social choice. *Emotion.*
+
+**Vollberg, M. C.**, & Cikara, M. (2025). Post-outcome valence, not emotion prediction errors, as a primary predictor of behavior. *Collabra: Psychology, 11*(1), 147528.
 
 **Vollberg, M. C.**, & Sander, D. (2024). Hidden reward: Affect and its
 prediction errors as windows into subjective value. *Current Directions in
 Psychological Science, 33*(2), 93–99.
 
-**Vollberg, M. C.**, & Cikara, M. (YEAR). Trial-by-trial learning signatures
-in self-reported affect. *Emotion.* [⚠️ verify year and volume]
+**Vollberg, M. C.**, & Cikara, M. (2024). Affective prediction errors in
+persistence and escalation of aggression. *Journal of Experimental Psychology:
+General, 153*(6), 1551–1567.
 
 **Vollberg, M. C.**, Gaesser, B., & Cikara, M. (2021). Activating episodic
 simulation increases affective empathy. *Cognition, 209,* 104558.
