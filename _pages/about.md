@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+author_profile: true
 ---
 
-This is where I introduce myself and link to my [CV](/assets/images/cv.pdf).
+[CV](/assets/images/cv.pdf).
