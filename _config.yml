@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Marius C. Vollberg | Psychological Scientist
+title: Marius C. Vollberg
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 My research investigates the thoughts and feelings underlying human social behavior. Working at the intersection of social, 
