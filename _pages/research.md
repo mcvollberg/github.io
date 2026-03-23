@@ -39,7 +39,7 @@ their actions' impact, but selfish distortions can be more contagious.
 *Under revision.*
 
 **Vollberg, M. C.**, O'Connor, B. B., Vuilleumier, P., Sander, D., & Cikara, M.
-Place-related neural activity sets the stage for empathy. *Cognition, 266,* 106327. 
+Place-related representations in setting the stage for empathy. *Cognition, 266,* 106327. 
 
 **Vollberg, M. C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). Emotion and prediction errors: Which ingredients matter?. *Trends in Cognitive Sciences, 29*(12), 1075-1076.
 
