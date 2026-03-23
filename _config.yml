@@ -14,10 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Marius C. Vollberg
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-My research investigates the thoughts and feelings underlying human social behavior. Working at the intersection of social, 
-affective, and cognitive psychology, I study why people cooperate, help, and empathize, and why these tendencies have predictable limits.
+email: mariusvollberg@gmail.com
+description: >-
+  My research investigates the thoughts and feelings underlying human social
+  behavior. Working at the intersection of social, affective, and cognitive
+  psychology, I study why people cooperate, help, and empathize, and why
+  these tendencies have predictable limits.
 minimal_mistakes_skin: default
 search: true
 
@@ -62,12 +64,19 @@ author:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/mariusvollberg.bsky.social"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar"
+      url: "https://scholar.google.de/citations?user=DFQsrOgAAAAJ&hl=en"
 
-footer:
+
+ooter:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/mariusvollberg.bsky.social"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar"
+      url: "https://scholar.google.de/citations?user=DFQsrOgAAAAJ&hl=en"
 
 
 defaults:
