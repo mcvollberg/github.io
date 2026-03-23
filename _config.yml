@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Marius C. Vollberg"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I use experiments to study cooperation and competition in humans."
+  bio    : "I study the affective and cognitive mechanisms underlying human social behavior."
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
