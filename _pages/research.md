@@ -32,6 +32,13 @@ modulates empathic responses toward in-group and out-group members.
 
 ## Publications
 
+Dashti, D., & **Vollberg, M. C.**  (in preparation). .
+
+Marks, J., & **Vollberg, M. C.**  Mapping the psychophysics of affect in Large Language Models
+(in preparation).
+
+Dashti, D., & Hare, T.A., & **Vollberg, M. C.**  (submitted). People form and use inferences based purely on others’ simple affective responses to outcomes.
+
 **Vollberg, M. C.**, & Gross, J. Selfish and prosocial individuals both distort
 their actions' impact, but selfish distortions can be more contagious.
 *Under revision.*
