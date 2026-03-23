@@ -1,5 +1,4 @@
-Good, I now have a complete picture. One flag: I can confirm the trial-by-trial affective prediction errors paper exists but can't pin down the exact journal and year from what's publicly indexed — it may still be in preparation or under review. I've marked it with a note below. Please verify and fill in. Here's the full draft:
-markdown---
+---
 title: "Research"
 permalink: /research/
 layout: single
@@ -55,4 +54,4 @@ affective empathy. *Cognition*, 209, 104558.
 Hein, G., Engelmann, J. B., **Vollberg, M. C.**, & Tobler, P. N. (2016). How learning shapes 
 the empathic brain. *PNAS*, 113(1), 80–85.
 
-See full list on [Google Scholar](https://scholar.google.de/citations?user=DFQsrOgAAAAJ&hl=en&o
+See full list on [Google Scholar](https://scholar.google.de/citations?user=DFQsrOgAAAAJ&hl=en&oi=ao).
