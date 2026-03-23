@@ -4,8 +4,6 @@ permalink: /research/
 layout: single
 ---
 
-## Current Projects
-
 **Impact distortions and social contagion**
 
 People systematically distort the social consequences of their own actions in
