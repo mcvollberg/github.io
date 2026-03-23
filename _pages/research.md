@@ -6,7 +6,7 @@ layout: single
 
 ## Current Projects
 
-**Impact distortions and social contagion** &nbsp;*(under review)*
+**Impact distortions and social contagion**
 
 People systematically distort the social consequences of their own actions in
 self-serving ways — selfish individuals downplay the harm of their choices
@@ -18,18 +18,17 @@ climate change to social welfare.
 **Affect and learning in social behavior**
 
 How do the feelings we expect and experience guide social decisions? Drawing
-on reinforcement learning frameworks, this line of work shows that deviations
-between expected and experienced affect — affective prediction errors — drive
-the persistence and escalation of intergroup aggression, and probes the extent
+on reinforcement learning frameworks, this line of work connects deviations
+between expected and experienced affect — affective prediction errors — to persistence 
+and escalation of intergroup aggression, and probes the extent
 to which affective signals track subjective value more broadly.
 
 **Episodic simulation and empathy**
 
 Mentally simulating others' experiences increases affective empathy — but
 this capacity is shaped by coalitional context. This line uses behavioral
-experiments and neuroimaging to examine how place-based mental simulation
-modulates empathic responses toward in-group and out-group members, and its
-neural implementation.
+experiments and neuroimaging to examine how mental simulation
+modulates empathic responses toward in-group and out-group members.
 
 ---
 
