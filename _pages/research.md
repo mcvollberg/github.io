@@ -8,7 +8,7 @@ layout: single
 
 People systematically distort the social consequences of their own actions in
 self-serving ways — selfish individuals downplay the harm of their choices
-while generous individuals exaggerate their sacrifice. My research shows that these distortions are differentially contagious: construals that make selfish actions appear less damaging spread more readily than those favoring generosity. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms.
+while generous individuals exaggerate their sacrifice. My research shows that these distortions are differentially contagious: construals that make selfish actions appear less damaging spread more readily than those favoring generosity. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms. A pressing remaining question is thus how contagious selfish-serving distortions may be mitigated.
 
 **Affect and learning in social behavior**
 
@@ -16,12 +16,12 @@ How do the feelings we expect and experience guide social decisions? Drawing
 on reinforcement learning frameworks, this line of work connects deviations
 between expected and experienced affect — affective prediction errors — to persistence 
 and escalation of intergroup aggression, and probes the extent
-to which affective signals track subjective value more broadly.
+to which affective signals track subjective value more broadly. Based on the insight that experienced affect is particularly information-rich, ongoing research probes the extent to which observers of others' affect can encode this information and use it for inferences about the person showing the affective response.
 
 **Episodic simulation and empathy**
 
 Mentally simulating others' experiences increases affective empathy, but
-this capacity is shaped by coalitional context. This line uses behavioral
+this capacity is shaped by coalitional context. This line of research uses behavioral
 experiments and neuroimaging to examine how mental simulation
 modulates empathic responses toward in-group and out-group members. 
 A key finding is that others' surroundings may spontaneously come to mind in lesser detail when we imagine the misfortunes of disliked others.
