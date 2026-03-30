@@ -42,7 +42,7 @@ their actions' impact, but selfish distortions can be more contagious.
 **Vollberg, M.C.**, O'Connor, B.B., Vuilleumier, P., Sander, D., & Cikara, M.
 Place-related representations in setting the stage for empathy. *Cognition, 266,* 106327. 
 
-**Vollberg, M.C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). Emotion and prediction errors: Which ingredients matter?. *Trends in Cognitive Sciences, 29*(12), 1075-1076.
+**Vollberg, M.C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). Emotion and prediction errors: Which ingredients matter? *Trends in Cognitive Sciences, 29*(12), 1075-1076.
 
 **Vollberg, M.C.**, Sander, D., & Hare, T.A. (2025). Trial-by-trial learning signatures
 in self-reported affect that require introspection and are orthogonal to social choice. *Emotion.*
