@@ -13,8 +13,7 @@ while generous individuals exaggerate their beneficience and sacrifice. My resea
 
 How do the feelings we expect and experience guide social decisions? Drawing
 on reinforcement learning frameworks, this line of work connects deviations
-between expected and experienced affect, called affective prediction errors, to persistence 
-and escalation of intergroup aggression, and probes the extent
+between expected and experienced affect, called affective prediction errors, to social choices (e.g., whether to aggress) and probes the extent
 to which affective signals track subjective value more broadly. 
 Based on the insight that experienced affect is particularly information-rich, ongoing research investigates how observers of others' affective responses encode this information and use it for inferences about those others.
 
