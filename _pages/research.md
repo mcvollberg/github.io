@@ -16,7 +16,7 @@ How do the feelings we expect and experience guide social decisions? Drawing
 on reinforcement learning frameworks, this line of work connects deviations
 between expected and experienced affect — affective prediction errors — to persistence 
 and escalation of intergroup aggression, and probes the extent
-to which affective signals track subjective value more broadly. Based on the insight that experienced affect is particularly information-rich, ongoing research probes the extent to which observers of others' affect can encode this information and use it for inferences about those who show an affective response.
+to which affective signals track subjective value more broadly. Based on the insight that experienced affect is particularly information-rich, ongoing research probes the extent to which observers of others' affect can encode this information and use it for inferences about those who show the corresponding affective response.
 
 **Episodic simulation and empathy**
 
