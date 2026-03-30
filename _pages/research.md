@@ -23,10 +23,12 @@ to which affective signals track subjective value more broadly.
 
 **Episodic simulation and empathy**
 
-Mentally simulating others' experiences increases affective empathy — but
+Mentally simulating others' experiences increases affective empathy, but
 this capacity is shaped by coalitional context. This line uses behavioral
 experiments and neuroimaging to examine how mental simulation
-modulates empathic responses toward in-group and out-group members.
+modulates empathic responses toward in-group and out-group members. 
+A key finding is that others' surroundings may spontaneously come to mind in lesser detail when we imagine the misfortunes of disliked others.
+
 
 ---
 
