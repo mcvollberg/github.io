@@ -28,7 +28,7 @@ A key finding is that others' surroundings may spontaneously come to mind in les
 
 ---
 
-## Publications
+## Relevant Publications
 
 Dashti, D., & **Vollberg, M.C.**  (in preparation). .
 
