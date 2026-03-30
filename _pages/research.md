@@ -15,12 +15,12 @@ How do the feelings we expect and experience guide social decisions? Drawing
 on reinforcement learning frameworks, this line of work connects deviations
 between expected and experienced affect, called affective prediction errors, to social choices (e.g., whether to aggress) and probes the extent
 to which affective signals track subjective value more broadly. <br>
-Based on the insight that experienced affect is particularly information-rich, ongoing research investigates how observers of others' affective responses encode this information and use it for inferences about those others.
+Based on the insight that experienced affect is particularly information-rich, ongoing research investigates how observers of others' affective responses encode this information and use it for inferences about those showing an affective response.
 
 **Episodic simulation and empathy**
 
 Mentally simulating others' experiences increases affective empathy, but
-this capacity is shaped by coalitional context. This line of research uses behavioral
+this capacity depends on our relationship to those others. This line of research uses behavioral
 experiments and neuroimaging to examine how mental simulation
 modulates empathic responses toward in-group and out-group members. 
 A key finding is that others' surroundings may spontaneously come to mind in lesser detail when we imagine the misfortunes of disliked others.
