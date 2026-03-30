@@ -33,9 +33,6 @@ A key finding is that others' surroundings may spontaneously come to mind in les
 
 Dashti, D., & **Vollberg, M.C.**  (in preparation). .
 
-Marks, J., & **Vollberg, M.C.**  (in preparation). Mapping the psychophysics of affect in Large Language Models
-.
-
 Dashti, D., & Hare, T.A., & **Vollberg, M.C.**  (submitted). People form and use inferences based purely on others’ simple affective responses to outcomes.
 
 **Vollberg, M.C.**, & Gross, J. (under revision). Selfish and prosocial individuals both distort
