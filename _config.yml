@@ -17,7 +17,7 @@ title: Marius C. Vollberg
 email: mariusvollberg@gmail.com
 description: >-
   My research investigates the thoughts and feelings underlying human social
-  behavior. Working at the intersection of social, affective, and cognitive
+  behavior. Working at the intersection of cognitive, affective, and social
   psychology, I study why people cooperate, help, and empathize, and why
   these tendencies have predictable limits.
 minimal_mistakes_skin: default
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Marius C. Vollberg"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I study the affective and cognitive mechanisms underlying human social behavior."
+  bio    : "I study the cognitive and affective foundations of social decision making."
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
