@@ -9,7 +9,7 @@ People systematically distort the social consequences of their actions in
 self-serving ways: selfish individuals downplay the harm of their choices
 while generous individuals exaggerate their beneficience and sacrifice. My research shows that these distortions are differentially contagious: distortions that make selfish actions appear less damaging spread more readily and make others behave more selfishly themselves. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms. A topic of ongoing investigation is thus how contagious selfishness may be mitigated.
 
-**Affect and learning in social behavior**
+**Affect and learning in social decision making**
 
 How do the feelings we expect and experience guide social decisions? Drawing
 on reinforcement learning frameworks, this line of work connects deviations
