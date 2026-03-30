@@ -41,7 +41,7 @@ Place-related representations in setting the stage for empathy. *Cognition, 266,
 **Vollberg, M.C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). Emotion and prediction errors: Which ingredients matter? *Trends in Cognitive Sciences, 29*(12), 1075-1076.
 
 **Vollberg, M.C.**, Sander, D., & Hare, T.A. (2025). Trial-by-trial learning signatures
-in self-reported affect that require introspection and are orthogonal to social choice. *Emotion.*
+in self-reported affect that require introspection and are orthogonal to social choice. *Emotion.* Advance online publication.
 
 **Vollberg, M.C.**, & Cikara, M. (2025). Post-outcome valence, not emotion prediction errors, as a primary predictor of behavior. *Collabra: Psychology, 11*(1), 147528.
 
