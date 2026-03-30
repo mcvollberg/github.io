@@ -61,6 +61,6 @@ simulation increases affective empathy. *Cognition, 209,* 104558.
 emotions. *Current Opinion in Psychology, 24,* 48–52.
 
 Hein, G., Engelmann, J.B., **Vollberg, M.C.**, & Tobler, P.N. (2016).
-How learning shapes the empathic brain. *PNAS, 113*(1), 80–85.
+How learning shapes the empathic brain. *Proceedings of the National Academy of Sciences, 113*(1), 80–85.
 
 [Google Scholar profile](https://scholar.google.de/citations?user=DFQsrOgAAAAJ&hl=en)
