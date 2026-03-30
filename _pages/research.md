@@ -30,7 +30,7 @@ A key finding is that others' surroundings may spontaneously come to mind in les
 
 ## Relevant Publications
 
-Dashti, D., & Hare, T.A., & **Vollberg, M.C.**  (submitted). People form and use inferences based purely on others’ simple affective responses to outcomes.
+Dashti, D., & Hare, T.A., & **Vollberg, M.C.**  (submitted). People form and use inferences based purely on others’ simple affective responses to outcomes. (trainee first author)
 
 **Vollberg, M.C.**, & Gross, J. (under revision). Selfish and prosocial individuals both distort
 their actions' impact, but selfish distortions can be more contagious.
