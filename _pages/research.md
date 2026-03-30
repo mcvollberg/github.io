@@ -30,8 +30,6 @@ A key finding is that others' surroundings may spontaneously come to mind in les
 
 ## Relevant Publications
 
-Dashti, D., & **Vollberg, M.C.**  (in preparation). .
-
 Dashti, D., & Hare, T.A., & **Vollberg, M.C.**  (submitted). People form and use inferences based purely on others’ simple affective responses to outcomes.
 
 **Vollberg, M.C.**, & Gross, J. (under revision). Selfish and prosocial individuals both distort
