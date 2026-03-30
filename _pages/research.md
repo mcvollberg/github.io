@@ -5,9 +5,9 @@ layout: single
 
 **Impact distortions and social contagion**
 
-People systematically distort the social consequences of their own actions in
+People systematically distort the social consequences of their actions in
 self-serving ways: selfish individuals downplay the harm of their choices
-while generous individuals exaggerate their beneficience and sacrifice. My research shows that these distortions are differentially contagious: construals that make selfish actions appear less damaging spread more readily than those favoring generosity. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms. A topic of ongoing investigation is thus how contagious selfishness may be mitigated.
+while generous individuals exaggerate their beneficience and sacrifice. My research shows that these distortions are differentially contagious: distortions that make selfish actions appear less damaging spread more readily and make others behave more selfishly themselves. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms. A topic of ongoing investigation is thus how contagious selfishness may be mitigated.
 
 **Affect and learning in social behavior**
 
@@ -19,10 +19,9 @@ Based on the insight that experienced affect is particularly information-rich, o
 
 **Episodic simulation and empathy**
 
-Mentally simulating others' experiences increases affective empathy, but
-this capacity depends on our relationship to those others. This line of research uses behavioral
-experiments and neuroimaging to examine how mental simulation
-modulates empathic responses toward in-group and out-group members. 
+Mentally simulating others' experiences increases makes us empathize more with them, but
+we do  not use this capacity equally towards all others. This line of research uses behavioral
+experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on who they are to us.
 A key finding is that others' surroundings may spontaneously come to mind in lesser detail when we imagine the misfortunes of disliked others.
 
 
