@@ -8,10 +8,7 @@ layout: single
 
 People systematically distort the social consequences of their own actions in
 self-serving ways — selfish individuals downplay the harm of their choices
-while generous individuals exaggerate their sacrifice. Crucially, distortions
-that make selfish actions appear less damaging spread more readily than those
-favoring generosity, with implications for collective action problems from
-climate change to social welfare.
+while generous individuals exaggerate their sacrifice. My research shows that these distortions are differentially contagious: construals that make selfish actions appear less damaging spread more readily than those favoring generosity. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms.
 
 **Affect and learning in social behavior**
 
