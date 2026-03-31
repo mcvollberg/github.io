@@ -5,24 +5,19 @@ layout: single
 
 **Impact distortions and social contagion**
 
-People systematically distort the social consequences of their actions in
+People often act without fully knowing how their actions impact others. Do people take advantage of this ambiguity to make themselves look good? And how do these distortions influence others? My research shows that people (on average) distort the social consequences of their actions in
 self-serving ways: selfish individuals downplay the harm of their choices
-while generous individuals exaggerate their beneficience and sacrifice. My research shows that these distortions are differentially contagious: distortions that make selfish actions appear less damaging spread more readily and make others behave more selfishly themselves. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms. A topic of ongoing investigation is thus how contagious selfishness may be mitigated.
+while generous individuals exaggerate their beneficience and sacrifice. Critically, these distortions were differentially contagious, as distortions that make selfish actions appear less damaging spread more readily and made others behave more selfishly themselves. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms.
 
 **Affect and learning in social decision making**
 
-How do the feelings we expect and experience guide social decisions? Drawing
-on reinforcement learning frameworks, this line of work connects deviations
-between expected and experienced affect, called affective prediction errors, to social choices (e.g., whether to aggress) and probes the extent
-to which affective signals track subjective value more broadly. <br>
-Based on the insight that experienced affect is particularly information-rich, ongoing research investigates how observers of others' affective responses encode this information and use it for inferences about those showing an affective response.
+How do expected and experienced feelings relate to our choices? Research on affective forecasting shows that people often fail to predict exactly how something will make them feel (e.g., winning the lottery feeling worse than expected). In parallel, research on reinforcement learning centers on learning from deviations from expectations, but typically regarding objective outcomes (e.g., winning more than expected) rather than feelings. In this line of research, I bridge these literatures and link deviations
+from expected feelings to learning and (social) decision making (e.g., whether to aggress). In doing so, it also elucidates the extent to which feelings track subjective value more broadly. <br>
+Based on the insight that experienced affect is particularly information-rich, ongoing research investigates how observers of others' feelings encode this information and use it for inferences about those others.
 
 **Episodic simulation and empathy**
 
-Mentally simulating others' experiences increases makes us empathize more with them, but
-we do  not use this capacity equally towards all others. This line of research uses behavioral
-experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on who they are to us.
-A key finding is that others' surroundings may spontaneously come to mind in lesser detail when we imagine the misfortunes of disliked others.
+We tend to empathize more with loved ones than with strangers. Is that because we represent their situation the same but care differently, or do we already represent their situation differently to begin with? When we read or hear about others' misfortunes rather than witnessing them, we draw from our past experiences to imagine the specific scene. Consequently, such scene imagination can vary in the kind and extent of details used. This line of research uses behavioral experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on who they are to us. A key finding is that others' surroundings may spontaneously come to mind in relatively lesser detail when we imagine the misfortunes of disliked others.
 
 
 ---
