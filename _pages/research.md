@@ -5,7 +5,7 @@ layout: single
 
 **Impact distortions and social contagion**
 
-People often act without fully knowing how their actions impact others. Do people take advantage of this ambiguity to make themselves look good? And how do these distortions influence others? My research shows that people (on average) distort the social consequences of their actions in
+People often act without fully knowing how their choices impact others. Do people take advantage of this ambiguity to make themselves look good? And how do these distortions influence others? My research shows that people (on average) distort the social consequences of their choices in
 self-serving ways: selfish individuals downplay the harm of their choices
 while generous individuals exaggerate their beneficience and sacrifice. Critically, these distortions are differentially contagious, as distortions that make selfish actions appear less damaging spread more readily and make others behave more selfishly themselves. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms.
 
@@ -17,7 +17,7 @@ Based on the insight that experienced affect is particularly information-rich, o
 
 **Episodic simulation and empathy**
 
-We tend to empathize more with loved ones than with strangers. Is that because we represent their situation the same but care differently, or do we already represent their situation differently to begin with? When we read or hear about others' misfortunes rather than witnessing them, we draw from our past experiences to imagine the specific scene. Consequently, such scene imagination can vary in the kind and extent of details used. This line of research uses behavioral experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on who they are to us. A key finding is that others' surroundings may spontaneously come to mind in relatively lesser detail when we imagine the misfortunes of disliked others.
+We tend to empathize more with loved ones than with strangers. Is that because we represent their situation the same but care differently, or do we already represent their situation differently to begin with? When we read or hear about others' misfortunes rather than witnessing them, we draw from our past experiences (i.e., episodes) to imagine the specific scene (i.e., "episodic simulation"). Consequently, such imagination can vary in the kind and extent of details used. This line of research uses behavioral experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on who they are to us. A key finding is that others' surroundings may spontaneously come to mind in relatively lesser detail when we imagine the misfortunes of disliked others.
 
 
 ---
