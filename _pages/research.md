@@ -11,8 +11,8 @@ while generous individuals exaggerate their beneficience and sacrifice. Critical
 
 **Affect and learning in social decision making**
 
-How do expected and experienced feelings relate to our choices? Research on affective forecasting shows that people often fail to predict exactly how something will make them feel (e.g., winning the lottery feeling worse than expected). In parallel, research on reinforcement learning centers on learning from deviations from expectations, but typically regarding objective outcomes (e.g., winning more than expected) rather than feelings. This line of research bridges these literatures and link deviations
-from expected feelings to learning and (social) decision making (e.g., whether to aggress). In doing so, it also elucidates the extent to which feelings track subjective value more broadly. <br>
+How do expected and experienced feelings relate to our choices? Research on affective forecasting shows that people often fail to predict exactly how something will make them feel (e.g., winning the lottery feeling worse than expected). In parallel, research on reinforcement learning centers on learning from deviations from expectations, but typically regarding objective outcomes (e.g., winning more than expected) rather than feelings. This line of research bridges these literatures and links deviations
+from expected feelings to learning and (social) decision making (e.g., whether to aggress). In doing so, it also elucidates the extent to which feelings track subjective value more broadly.
 Based on the insight that experienced affect is particularly information-rich, ongoing research investigates how observers of others' feelings encode this information and use it for inferences about those others.
 
 **Episodic simulation and empathy**
