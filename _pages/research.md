@@ -27,35 +27,35 @@ We tend to empathize more with loved ones than with strangers. Is that because w
 
 Dashti, D., & Hare, T.A., & **Vollberg, M.C.**  (submitted). People form and use inferences based purely on others’ simple affective responses to outcomes. (trainee first author)
 
-**Vollberg, M.C.**, & Gross, J. (under revision). Selfish and prosocial individuals both distort
-their actions' impact, but selfish distortions can be more contagious.
+**Vollberg, M.C.**, & Gross, J. (under revision). [Selfish and prosocial individuals both distort
+their actions' impact, but selfish distortions can be more contagious.](https://osf.io/preprints/psyarxiv/vfx7g_v1)
 
 
 **Vollberg, M.C.**, O'Connor, B.B., Vuilleumier, P., Sander, D., & Cikara, M.
-Place-related representations in setting the stage for empathy. *Cognition, 266,* 106327. 
+[Place-related representations in setting the stage for empathy](https://www.sciencedirect.com/science/article/pii/S0010027725002689). *Cognition, 266,* 106327. 
 
-**Vollberg, M.C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). Emotion and prediction errors: Which ingredients matter? *Trends in Cognitive Sciences, 29*(12), 1075-1076.
+**Vollberg, M.C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). [Emotion and prediction errors: Which ingredients matter?](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00281-5) *Trends in Cognitive Sciences, 29*(12), 1075-1076.
 
-**Vollberg, M.C.**, Sander, D., & Hare, T.A. (2025). Trial-by-trial learning signatures
-in self-reported affect that require introspection and are orthogonal to social choice. *Emotion.* Advance online publication.
+**Vollberg, M.C.**, Sander, D., & Hare, T.A. (2025). [Trial-by-trial learning signatures
+in self-reported affect that require introspection and are orthogonal to social choice.](https://psycnet.apa.org/record/2027-00111-001) *Emotion.* Advance online publication.
 
-**Vollberg, M.C.**, & Cikara, M. (2025). Post-outcome valence, not emotion prediction errors, as a primary predictor of behavior. *Collabra: Psychology, 11*(1), 147528.
+**Vollberg, M.C.**, & Cikara, M. (2025). [Post-outcome valence, not emotion prediction errors, as a primary predictor of behavior.](https://online.ucpress.edu/collabra/article/11/1/147528/214422/Post-Outcome-Valence-Not-Emotion-Prediction-Errors) *Collabra: Psychology, 11*(1), 147528.
 
-**Vollberg, M.C.**, & Sander, D. (2024). Hidden reward: Affect and its
-prediction errors as windows into subjective value. *Current Directions in
+**Vollberg, M.C.**, & Sander, D. (2024). [Hidden reward: Affect and its
+prediction errors as windows into subjective value.](https://journals.sagepub.com/doi/full/10.1177/09637214231217678) *Current Directions in
 Psychological Science, 33*(2), 93–99.
 
-**Vollberg, M.C.**, & Cikara, M. (2024). Affective prediction errors in
-persistence and escalation of aggression. *Journal of Experimental Psychology:
+**Vollberg, M.C.**, & Cikara, M. (2024). [Affective prediction errors in
+persistence and escalation of aggression.](https://psycnet.apa.org/record/2024-78566-001) *Journal of Experimental Psychology:
 General, 153*(6), 1551–1567.
 
-**Vollberg, M.C.**, Gaesser, B., & Cikara, M. (2021). Activating episodic
-simulation increases affective empathy. *Cognition, 209,* 104558.
+**Vollberg, M.C.**, Gaesser, B., & Cikara, M. (2021). [Activating episodic
+simulation increases affective empathy.](https://www.sciencedirect.com/science/article/abs/pii/S0010027720303772) *Cognition, 209,* 104558.
 
-**Vollberg, M.C.**, & Cikara, M. (2018). The neuroscience of intergroup
-emotions. *Current Opinion in Psychology, 24,* 48–52.
+**Vollberg, M.C.**, & Cikara, M. (2018). [The neuroscience of intergroup
+emotions.](https://www.sciencedirect.com/science/article/abs/pii/S2352250X18300277) *Current Opinion in Psychology, 24,* 48–52.
 
 Hein, G., Engelmann, J.B., **Vollberg, M.C.**, & Tobler, P.N. (2016).
-How learning shapes the empathic brain. *Proceedings of the National Academy of Sciences, 113*(1), 80–85.
+[How learning shapes the empathic brain.](https://www.pnas.org/doi/10.1073/pnas.1514539112) *Proceedings of the National Academy of Sciences, 113*(1), 80–85.
 
 [Google Scholar profile](https://scholar.google.de/citations?user=DFQsrOgAAAAJ&hl=en)
