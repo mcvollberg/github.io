@@ -18,7 +18,7 @@ Based on the insight that experienced affect is particularly information-rich, o
 
 **Episodic simulation and empathy**
 
-We tend to empathize more with loved ones than with strangers. Is that because we represent their situation the same but care differently, or do we already represent their situation differently to begin with? When we read or hear about others' misfortunes rather than witnessing them, we draw from our past experiences (i.e., episodes) to imagine the specific scene (i.e., "episodic simulation"). Consequently, such imagination can vary in the kind and extent of details used. This line of research uses behavioral experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on our relationship to them. A key finding is that others' surroundings may spontaneously come to mind in relatively lesser detail when we imagine the misfortunes of disliked others.
+We tend to empathize more with loved ones than with strangers. Is that because we represent their situation the same but care differently, or do we already represent their situation differently to begin with? When we read or hear about others' misfortunes rather than witnessing them, we draw from our past experiences (i.e., episodes) to imagine the specific scene (i.e., "episodic simulation"). Consequently, such imagination can vary in the kind and extent of past experiences being incorporated. This line of research uses behavioral experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on our relationship to them. A key finding is that others' surroundings may spontaneously come to mind in relatively lesser detail when we imagine the misfortunes of disliked others.
 
 
 ---
