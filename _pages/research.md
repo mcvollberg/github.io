@@ -34,7 +34,7 @@ Dashti, D., Hare, T.A., & **Vollberg, M.C.**  (submitted). [People form and use 
 their actions' impact, but selfish distortions can be more contagious.](https://osf.io/preprints/psyarxiv/vfx7g_v1) *Nature Human Behaviour.*
 
 
-**Vollberg, M.C.**, O'Connor, B.B., Vuilleumier, P., Sander, D., & Cikara, M. (2026)
+**Vollberg, M.C.**, O'Connor, B.B., Vuilleumier, P., Sander, D., & Cikara, M. (2026).
 [Place-related representations in setting the stage for empathy](https://www.sciencedirect.com/science/article/pii/S0010027725002689). *Cognition, 266,* 106327. 
 
 **Vollberg, M.C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). [Emotion and prediction errors: Which ingredients matter?](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00281-5) *Trends in Cognitive Sciences, 29*(12), 1075-1076.
